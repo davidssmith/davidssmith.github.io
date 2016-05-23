@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Patent Granted for MRI Data Correction Technique
+title:  Patent // Automated MRI Data Correction
 date:   2015-05-26
 categories:
 ---

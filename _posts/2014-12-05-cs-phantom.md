@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Compressed Sensing Phantom for MRI
+title:  Code // Compressed Sensing Phantom for MRI
 date:   2014-12-05
 categories:
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Exposure Rate Constants and Lead Shielding Values
+title:  Paper // Exposure Rate Constants and Lead Shielding Values
 date:   2012-10-12 10:55:53 -0500
 categories:
 ---
